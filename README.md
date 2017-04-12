@@ -4,7 +4,7 @@ Displaying my visualizations from week 3
 Here is my Leaflet Map, which shows locations in Salem, MA that are important for attendees of a dance event I organized:
 
 
- <iframe width="90%" height="350" src="https://laurdstern.github.io/leaflet-map-simple/" frameborder="0"></iframe>
+ <iframe src="https://laurdstern.github.io/leaflet-map-simple/" width="90%" height="350" ></iframe>
  
  
  And here is my Scatter Chart, which shows grades by median household income across districts in CT:
